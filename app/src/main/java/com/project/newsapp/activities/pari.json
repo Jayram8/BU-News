@@ -1,0 +1,136 @@
+{
+  "response": {
+    "orderBy": "newest",
+    "pages": 1,
+    "results": [
+      {
+        "thumbnail": "https://www.reuters.com/resizer/QyXLi_Ua4HgORSY5bdu8KawK3bE=/1080x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJX7BMKMQJKV7BFV7VTGEXGH4I.jpg",
+        "sectionId": "business",
+        "webPublicationDate": "8 hrs ago",
+        "webTitle": "28-year-old tech billionaire Austin Russell buys 82% stake in Forbes",
+        "webUrl": "https://www.reuters.com/resizer/QyXLi_Ua4HgORSY5bdu8KawK3bE=/1080x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJX7BMKMQJKV7BFV7VTGEXGH4I.jpg"
+      },
+      {
+        "thumbnail": "https://c.ndtvimg.com/2023-05/27c73jrg_parineeti-_625x300_14_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=650,height=400",
+        "sectionId": "entertainment",
+        "webPublicationDate": "9 hrs ago",
+        "webTitle": "Pareeniti chopra tied knot with Raghav Chada",
+        "webUrl": "https://www.reuters.com/resizer/QyXLi_Ua4HgORSY5bdu8KawK3bE=/1080x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PJX7BMKMQJKV7BFV7VTGEXGH4I.jpg"
+      },
+
+      {
+        "thumbnail": "https://images.news18.com/ibnlive/uploads/2023/05/vineeta-singh-2-16838850973x2.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal",
+        "sectionId": "business",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "Was told not to wear jeans, tight tops during my ITC internship: Vineeta Singh",
+        "webUrl": "https://images.news18.com/ibnlive/uploads/2023/05/vineeta-singh-2-16838850973x2.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal"
+      },
+      {
+        "sectionId": "business",
+        "thumbnail": "https://images.news18.com/ibnlive/uploads/2023/05/rameshwaram-cafe1-16839663863x2.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "Rameshwaram Cafe in B'luru does ₹4.5 cr business a month: Udaan Co-founder",
+        "webUrl": "https://images.news18.com/ibnlive/uploads/2023/05/rameshwaram-cafe1-16839663863x2.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal"
+      },
+      {
+        "sectionId": "business",
+        "thumbnail": "https://images.mktw.net/im-780092?width=700&size=1.7777777777777777&pixel_ratio=2",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "Large offices in Haryana can now serve beer, wine to employees",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/we-need-to-get-out-how-gypsy-families-were-driven-out-of-spanish-town-by-mob"
+      },
+      {
+        "sectionId": "business",
+        "thumbnail": "https://media.guim.co.uk/9429cfa79667b8e929c112ddd98b147ee0c765ad/329_4_5014_3008/500.jpg",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "‘We need to get out!’ How Gypsy families were driven out of Spanish town by mob",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/we-need-to-get-out-how-gypsy-families-were-driven-out-of-spanish-town-by-mob"
+      },
+      {
+        "sectionId": "business",
+        "thumbnail": "https://media.guim.co.uk/9429cfa79667b8e929c112ddd98b147ee0c765ad/329_4_5014_3008/500.jpg",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "‘We need to get out!’ How Gypsy families were driven out of Spanish town by mob",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/we-need-to-get-out-how-gypsy-families-were-driven-out-of-spanish-town-by-mob"
+      },
+      {
+        "thumbnail": "https://media.guim.co.uk/9429cfa79667b8e929c112ddd98b147ee0c765ad/329_4_5014_3008/500.jpg",
+        "sectionId": "business",
+        "webPublicationDate": "2023-05-07T09:00:17Z",
+        "webTitle": "‘We need to get out!’ How Gypsy families were driven out of Spanish town by mob",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/we-need-to-get-out-how-gypsy-families-were-driven-out-of-spanish-town-by-mob"
+      },
+      {
+        "thumbnail": "https://images.news18.com/ibnlive/uploads/2023/05/rameshwaram-cafe1-16839663863x2.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal",
+        "sectionId": "entertainment",
+        "webPublicationDate": "2023-05-07T08:41:03Z",
+        "webTitle": "Karnataka election results ",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/france-to-host-first-awards-ceremony-for-rap-rb-and-afro-music"
+      },
+      {
+        "thumbnail": "https://media.guim.co.uk/0aa6ddbe814594a2fc9964e443e6615476500eff/0_202_4500_2700/500.jpg",
+        "sectionId": "entertainment",
+        "webPublicationDate": "2023-05-07T08:12:39Z",
+        "webTitle": "Eritrea accused of forcibly repatriating civilians caught up in Sudan fighting",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/eritrea-accused-of-forcibly-repatriating-civilians-caught-up-in-sudan-fighting"
+      },
+      {
+        "sectionId": "business",
+        "thumbnail": "https://media.guim.co.uk/f04fa54ca322b90c5fad3d0fea559cbd4503bca6/0_62_3648_2189/500.jpg",
+        "webPublicationDate": "2023-05-07T08:00:15Z",
+        "webTitle": "‘Still in the stone age’: movie world in shock as Germany’s MeToo moment arrives",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/still-in-the-stone-age-movie-world-in-shock-as-germanys-metoo-moment-arrives"
+      },
+      {
+        "sectionId": "health",
+        "thumbnail": "https://media.guim.co.uk/f77e25e9452d73ffc357bc7e9fc4c330add656ea/0_0_1272_763/500.jpg",
+        "webPublicationDate": "2023-05-07T07:00:17Z",
+        "webTitle": "Home Office accused of being ‘unashamedly racist’ towards Sudanese",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/home-office-accused-of-being-unashamedly-racist-towards-sudanese"
+      },
+      {
+        "sectionId": "sports",
+        "thumbnail": "https://media.guim.co.uk/2335682b973a968434c062932f3e827f8e6a8370/0_0_8098_4859/500.jpg",
+        "webPublicationDate": "2023-05-07T07:00:16Z",
+        "webTitle": "Is Covid really over? WHO’s announcement sounds more like surrender than victory",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/is-covid-really-over-whos-announcement-sounds-more-like-surrender-than-victory"
+      },
+      {
+        "sectionId": "technology",
+        "thumbnail": "https://media.guim.co.uk/90b24a700eb704cc4aabf7940edf603fe4c22091/0_394_2726_1635/500.jpg",
+        "webPublicationDate": "2023-05-07T07:00:13Z",
+        "webTitle": "Support for Erdogan’s party dwindles in Turkey’s quake zone",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/support-erdogan-party-dwindles-turkey-earthquake-akp-polls"
+      },
+      {
+        "sectionId": "health",
+        "thumbnail": "https://media.guim.co.uk/c6d62c251a440fd1996a93c0ad094fbe9275a6d4/0_0_3136_1881/500.jpg",
+        "webPublicationDate": "2023-05-07T05:00:13Z",
+        "webTitle": "The view from Jamaica: ‘I can’t stand the thought that the head of state is King Charles’",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/the-view-from-jamaica-i-cant-stand-the-thought-that-the-head-of-state-is-king-charles"
+      },
+      {
+        "sectionId": "health",
+        "thumbnail": "https://media.guim.co.uk/7fa606d3bd352c6558b6ce0642feff2f761d1be7/0_532_7983_4790/500.jpg",
+        "webPublicationDate": "2023-05-07T05:00:12Z",
+        "webTitle": "A ‘nervousness never seen before’ hits Moscow before Victory Day parades",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades"
+      },
+      {
+        "thumbnail": "https://media.guim.co.uk/7fa606d3bd352c6558b6ce0642feff2f761d1be7/0_532_7983_4790/500.jpg",
+        "sectionId": "science",
+        "webPublicationDate": "2023-05-07T05:00:12Z",
+        "webTitle": "A ‘nervousness never seen before’ hits Moscow before Victory Day parades",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades"
+      },
+      {
+        "sectionId": "science",
+        "thumbnail": "https://media.guim.co.uk/7fa606d3bd352c6558b6ce0642feff2f761d1be7/0_532_7983_4790/500.jpg",
+        "webPublicationDate": "2023-05-07T05:00:12Z",
+        "webTitle": "A ‘nervousness never seen before’ hits Moscow before Victory Day parades",
+        "webUrl": "https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades"
+      }
+    ],
+    "status": "ok"
+  }
+}
